@@ -3,6 +3,14 @@
   font-weight: 500;
 }
 
+.studentBio {
+  text-align: center;
+  opacity: .8;
+  background-color: lightblue;
+  padding: 20px;
+  width: 600px;
+  height: 200px;
+}
 h3 {
   color: blueviolet;
 }
