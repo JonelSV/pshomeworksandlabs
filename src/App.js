@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import Students from './Students';
+import './App.css'
 
 const App = () => {
 

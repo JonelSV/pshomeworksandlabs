@@ -6,8 +6,8 @@ return (
 
     <div className="scoresDiv">
 
-            <p>Got a score of: {props.studentScores}</p>
-            <p>Date: {props.studentDate}</p>
+            <p><span className="spanStyle">Got a score of: </span> {props.studentScores}</p>
+            <p><span className="spanStyle">Date: </span> {props.studentDate}</p>
 
 
     </div>
