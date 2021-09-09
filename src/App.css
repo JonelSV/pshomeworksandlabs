@@ -11,6 +11,16 @@
   width: 600px;
   height: 200px;
 }
+
+.studentDiv {
+  margin-top: 50px;
+  border-bottom: 3px dotted lightgrey;
+}
+
+
+
+
 h3 {
   color: blueviolet;
+  text-decoration: underline;
 }
